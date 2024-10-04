@@ -6,3 +6,5 @@ while (k < indice){
   k++
   soma = soma + k
 }
+
+console.log(soma)
